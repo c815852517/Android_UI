@@ -492,5 +492,5 @@ activity_action_mode.xml:
 </LinearLayout>
 ```
 ### 实验结果
-![](https://github.com/c815852517/Android_UI/blob/master/app/src/4.jpg)
+![](https://github.com/c815852517/Android_UI/blob/master/app/src/4.png)
 
