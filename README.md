@@ -327,9 +327,9 @@ activity_xml_menu.xml:
 ```
 ### 实验结果
 ![](https://github.com/c815852517/Android_UI/blob/master/app/src/3.1.jpg)
-![](https://github.com/c815852517/Android_UI/blob/master/app/src/3.2.jpg)
-![](https://github.com/c815852517/Android_UI/blob/master/app/src/3.3.jpg)
-![](https://github.com/c815852517/Android_UI/blob/master/app/src/3.4.jpg)
+![](https://github.com/c815852517/Android_UI/blob/master/app/src/3.2.png)
+![](https://github.com/c815852517/Android_UI/blob/master/app/src/3.3.png)
+![](https://github.com/c815852517/Android_UI/blob/master/app/src/3.4.png)
 ## 四、创建上下文操作模式(ActionMode)的上下文菜单
 实验重要源码：
 
